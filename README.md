@@ -1,8 +1,8 @@
 # My-restaurant
 Task day 2 - Prep course - JV : Restaurant Wireframe  
 
-# Noodles Box restaurant  
-This is the wireframe of the online website of the retaurant.   
+# Noodles Box Restaurant  
+This is the wireframe of the online website of the restaurant.   
 it includes **a home page , menu and an ordering page**.   
 
 I hope you like it. 
